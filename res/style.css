@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Unbounded&display=swap');
+
+
+body {
+    font-family: 'Unbounded';
+    font-size: 25px;
+    background-color: #4B6926;
+    color: beige;
+}
+.dad{
+    text-align: right;
+}
+.dadp{
+    width: 15%;
+    height: 15%;
+}
+.bruh{
+    text-align: center;
+}
+.mom{
+    float: left !important;
+}
+.momp{
+    width: 25%;
+    height: 25%;
+}
+
+.ctr{
+    text-align: center;
+}
+.ctri{
+    width: 35%;
+    height: 35%;
+}
+.gift3{
+    width: 15%;
+    height: 15%;
+    transition: ease-in-out .8s;
+}
+.gift3:hover{
+    transform: scale(1.1);
+}
